@@ -4,6 +4,5 @@
 - 📫 Discord: Iceyzx#9023
 
 
-<---
-CnmIceyzx/Python
+https://github.com/CnmIceyzx/Python
 ----
