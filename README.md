@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CnmIceyzx
-- 🍜 I love noodles
-- 👀 I’m learning Python
+- 👀 I'm 14 years old
 - 📫 Discord: Iceyzx#9023
 
 
